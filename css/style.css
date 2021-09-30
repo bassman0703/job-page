@@ -53,7 +53,7 @@ ol {
 }
 
 a {
-    color: #1dbe72;
+    color: #EF0A0A;
     text-decoration: none;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
@@ -337,7 +337,7 @@ a.btn_1.yellow:hover,
 }
 
 .content-left {
-    background-color: #1dbe72;
+    background-color: #8C54A1;
     padding: 0
 }
 
@@ -576,7 +576,7 @@ button.submit {
     cursor: pointer;
     outline: none;
     text-align: center;
-    background: #1dbe72;
+    background: #8C54A1;
     position: relative;
     font-size: 14px;
     font-size: 0.875rem;
@@ -626,7 +626,7 @@ button[disabled] {
 }
 
 .ui-widget-header {
-    background: #6C3;
+    background: #1dbe72;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
@@ -1465,7 +1465,7 @@ input[type=file].valid::-webkit-file-upload-button {
     border-radius: 3px;
     padding: 8px 10px 8px 38px;
     font-weight: 600;
-    background: #1dbe72 url(../img/upload_icon.svg) 8px center no-repeat;
+    background: #8C54A1 url(../img/upload_icon.svg) 8px center no-repeat;
     outline: none
 }
 
